@@ -1,6 +1,6 @@
 // Anagram code using Hashmaps
 
-import java.util.*;
+import java.util.*;zxvsdgzegbfzvgzsdfvz
 import java.io.*;
 public class AnagramUsingHashMap{
     public static void main(String[] args){
